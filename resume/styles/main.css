@@ -1,0 +1,60 @@
+
+#selfie {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 250px;
+}
+
+#main {
+	margin-right: 150px;
+	margin-left: 150px;
+	padding: 50px;
+	border-radius: 30px; 
+	background-color: #DEE3E5;
+	font-family: Palatino;
+	font-size: 15px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 40px;
+	font-family: Courier;
+}
+
+h2 {
+	text-align: center;
+	font-size: 16px;
+	font-family: Courier;
+}
+
+h3 {
+	font-size: 18px;
+	font-weight: bold;
+
+}
+
+h4 {
+	font-weight: bolder;
+	border-top: 1px solid black;
+	padding-top: 15px;
+}
+
+h5 {
+	font-style: bold;
+	font-size: 15px
+}
+
+a:link {
+	text-decoration: none;
+	color: black;	
+}
+
+#header {
+	border-bottom: 2.5px solid black;
+}
+
+.date {
+	float: right;
+}
+
